@@ -1,0 +1,30 @@
+{
+  "metric": [
+    { "name": "D10", "area_mm2": 71.3 },
+    { "name": "D13", "area_mm2": 126.7 },
+    { "name": "D16", "area_mm2": 198.6 },
+    { "name": "D19", "area_mm2": 284.9 },
+    { "name": "D22", "area_mm2": 387.1 },
+    { "name": "D25", "area_mm2": 506.7 }
+  ],
+  "imperial": [
+    { "name": "#3", "area_in2": 0.11 },
+    { "name": "#4", "area_in2": 0.20 },
+    { "name": "#5", "area_in2": 0.31 },
+    { "name": "#6", "area_in2": 0.44 },
+    { "name": "#7", "area_in2": 0.60 },
+    { "name": "#8", "area_in2": 0.79 }
+  ],
+  "fyMappings": {
+    "ks": [
+      { "mpa": 400, "ksi": 58.01 },
+      { "mpa": 500, "ksi": 72.52 },
+      { "mpa": 600, "ksi": 87.02 }
+    ],
+    "aci": [
+      { "ksi": 60, "mpa": 413.7 },
+      { "ksi": 75, "mpa": 517.1 },
+      { "ksi": 80, "mpa": 551.6 }
+    ]
+  }
+}

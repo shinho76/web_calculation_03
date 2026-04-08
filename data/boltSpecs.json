@@ -1,0 +1,10 @@
+{
+  "specs": {
+    "F8T":  { "name": "KS B 1010 F8T",  "Fnt": 630, "Fnv_n": 372, "Fnv_x": 457, "common": false },
+    "A325M":{ "name": "A325M (F1852TC)", "Fnt": 620, "Fnv_n": 372, "Fnv_x": 457, "common": true  },
+    "F10T": { "name": "KS B 1010 F10T", "Fnt": 750, "Fnv_n": 450, "Fnv_x": 563, "common": true  },
+    "A490M":{ "name": "A490M (F2280TC)", "Fnt": 825, "Fnv_n": 495, "Fnv_x": 620, "common": false },
+    "F13T": { "name": "KS B 1010 F13T", "Fnt": 975, "Fnv_n": 585, "Fnv_x": 731, "common": false }
+  },
+  "sizes": [16, 20, 22, 24, 27, 30]
+}
