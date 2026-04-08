@@ -1,0 +1,2 @@
+import{j as e}from"./vendor-chart-BEV6cz7-.js";function o({title:r,children:t,accent:a=!1}){return e.jsxs("div",{style:{background:"var(--bg-inset)",border:`1px solid ${a?"var(--bd-accent)":"var(--bd-subtle)"}`,borderRadius:8,padding:14,marginTop:16,transition:"background 0.25s"},children:[r&&e.jsx("h5",{style:{fontSize:12,fontWeight:700,color:"var(--ac-main)",marginBottom:8,letterSpacing:"0.04em",textTransform:"uppercase"},children:r}),t]})}export{o as R};
+//# sourceMappingURL=ResultBox-DA0MhLE4.js.map
